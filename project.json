@@ -1,0 +1,9 @@
+{
+  "name": "uniswap-v3-pool-dashboard",
+  "$schema": "node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": ".",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project uniswap-v3-pool-dashboard --web",
+  "targets": {}
+}
